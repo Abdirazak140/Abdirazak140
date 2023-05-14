@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdirazak Yusuf</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings! I'm Abdirazak 👋;Don't hesitate to reach out to me)](https://git.io/typing-svg)
 - 📫 How to reach me **abdirazak140@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
