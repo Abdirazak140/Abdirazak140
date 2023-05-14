@@ -1,6 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings!+I'm+Abdirazak+👋;Don't+hesitate+to+reach+out+to+me)](https://git.io/typing-svg)
-- 📫 How to reach me **abdirazak140@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings!+👋+I'm+Abdirazak;Don't+hesitate+to+reach+out+to+me!)](https://git.io/typing-svg)
+```java
+public class AbdirazakYusuf {
+    private String name;
+    private int age;
+    private String degree;
+    private String school;
+    private List<String> interests;
 
+    public AbdirazakYusuf() {
+        this.name = "Abdirazak Yusuf";
+        this.age = 19;
+        this.degree = "Software Engineering B.Eng";
+        this.school = "York University";
+        this.interests = Arrays.asList("Machine Learning", "Big Data", "Unity", "Robotics");
+    }
+    
+    public void lifelongLearning() {
+        boolean keepLearning = true;
+        while (keepLearning){
+            learnNewThing();
+        }
+    }
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdirazak-yusuf-a72163230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdirazak-yusuf-a72163230/" height="30" width="40" /></a>
