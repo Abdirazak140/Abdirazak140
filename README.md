@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings!+👋+I'm+Abdirazak;Don't+hesitate+to+reach+out+to+me!)](https://git.io/typing-svg)
 
-Visit [www.ayusuf.ca](https://www.ayusuf.ca/) for my portfolio 👨‍💻
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
